@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root date="1858-08-30">
+    <key>
+        <terms code="loc=location mes=message q=question sig=signature"/>
+    </key>
+
+    <Header day="30">August 30.</Header>
+    <!-- first message -->
+    <Loc place="canada to spain">Newfoundland to Valentia.</Loc>
+    <Mes>“Can you read?”</Mes>
+    <!-- second message -->
+    <Loc place="spain to canada">Valentia to Newfoundland.</Loc>
+    <Mes>“Yes, we can read you. Send news slowly. <q><Name>Saward</Name> asks where
+                <Name>Kells</Name> is? How are my signals?</q>
+        <Name>Persia</Name> arrived Saturday. Receive on one <tool
+            inst="measure electrical current par excellence">galvanometer</tool> only, fault
+        signals, produced currents from coil of your larger <tool>galvanometer</tool>.” <Note>(None
+            of the words italicized were read in Newfoundland.)</Note></Mes>
+    <!-- I couldnt tell which words were italicized -->
+    <!-- last message -->
+    <Loc place="canada to spain">Newfoundland to Valentia.</Loc>
+    <Mes>“Can read some of your sending. Take this message:—New York. The Directors Atlantic
+        Telegraph Company, London. Parties pressing upon us messages for Europe. <q>When will line
+            be open for business? Has <Name>Mr. Morgan</Name> sailed for New York?</q> Early in the
+        morning of <date time="09-01">September 1</date>, please send me message that I can read at
+        the celebration that day, and another on the 2d, I can read at dinner that evening.
+            <sig>“C.W. FIELD.”</sig></Mes>
+</Root>
