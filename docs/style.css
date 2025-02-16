@@ -2,14 +2,20 @@ body {
                 background: #D6DDF6;
                 font-family: "Lucida Console", "Courier New", monospace;
             }
-            
+h1{
+    text-shadow: 2px 2px;
+}
 body.gallery {
-                background: #00d6ac;
+                color:black;
+                background: #FF9A8A;
                 font-family: "Lucida Console", "Courier New", monospace;
             }
             
 figure {width:20%;
              background: /*#EFD6F6*/ white;;
+            }
+figure.gallery {width:20%;
+             background: /*#EFD6F6*/ #00d6ac;;
             }
             
 img {width:80%;}
