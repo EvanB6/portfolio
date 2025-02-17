@@ -4,22 +4,23 @@
         <title>gallery page</title>
         <link rel="stylesheet" type="text/css" href="style.css" />
     </head>
-    
     <body class="gallery">
         <h1 style="color:#663c1f">
             <strong>Welcome</strong>
         </h1>
-        <nav>
-            <a href="gallery.html">GALLERY</a> | <a href="about.html">ABOUT</a> | <a
+        <nav class="right">
+            <a class = "link" href="gallery.html">GALLERY</a> | <a href="about.html">ABOUT</a> | <a
                 href="index.html">INDEX</a>
         </nav>
-        <figure class="gallery">
-            <img src="images/berry.jpg" />
-            <figcaption>A close up of a red berry.</figcaption>
-        </figure>
-        <figure class="gallery">
-            <img src="images/log.jpg" />
-            <figcaption>A close up of a log.</figcaption>
-        </figure>
+        <div class="flex">
+            <figure>
+                <img src="images/berry.jpg" />
+                <figcaption>A close up of a red berry.</figcaption>
+            </figure>
+            <figure>
+                <img src="images/log.jpg" />
+                <figcaption>A close up of a log.</figcaption>
+            </figure>
+        </div>
     </body>
 </html>

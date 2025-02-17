@@ -1,3 +1,14 @@
+/*links*/
+a.link{
+    color:black;
+    text-decoration: none;
+    
+}
+
+
+
+
+
 body {
                 background: #D6DDF6;
                 font-family: "Lucida Console", "Courier New", monospace;
@@ -10,13 +21,30 @@ body.gallery {
                 background: #FF9A8A;
                 font-family: "Lucida Console", "Courier New", monospace;
             }
+div.flex figure{
+    flex: 1;
+    background:black;
+}
+div.flex{
+    width:80%;
+    display:flex;
+    
+}
+body.image{
+                background-image: url("log.jpg");
+                background-color: #cccccc;
+}
             
 figure {width:20%;
              background: /*#EFD6F6*/ white;;
             }
-figure.gallery {width:20%;
+figure.gallery {width:50%;
              background: /*#EFD6F6*/ #00d6ac;;
             }
+nav.right{
+    text-align: right;
+    
+}
             
 img {width:80%;}
             
