@@ -52,8 +52,12 @@ body.resume{
     font-family: "Lucida Console", "Courier New", monospace;
     
 }
-p.resume{
-    margin:100px;
+div.resume{
+    margin-left:10em;
+    margin-right:10em;
+}
+p.right{
+    text-align:right;
 }
 
 /* header */
@@ -78,4 +82,11 @@ section {
     background: coral;
     width: 90%;
     margin: auto;
+}
+section.resume{
+    margin-left: 10em;
+    margin-right: 10em;
+}
+section.inner{
+    background: yellow;
 }
