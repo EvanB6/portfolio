@@ -56,8 +56,11 @@ div.resume{
     margin-left:10em;
     margin-right:10em;
 }
-p.right{
-    text-align:right;
+p.left{
+    text-align:left;
+}
+span.right{
+    float:right;
 }
 
 /* header */
@@ -79,7 +82,7 @@ img#PSB {
 }
 
 section {
-    background: coral;
+    background:lightblue;
     width: 90%;
     margin: auto;
 }
