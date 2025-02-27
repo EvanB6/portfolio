@@ -68,9 +68,7 @@ h1 {
     text-shadow: 2px 2px;
     text-align: center;
 }
-h2.resume{
-    
-}
+
 
 /* img */
 img {
@@ -84,11 +82,10 @@ img#PSB {
 section {
     background:lightblue;
     width: 90%;
-    margin: auto;
 }
 section.resume{
-    margin-left: 10em;
-    margin-right: 10em;
+    margin-left: auto;
+    margin-right: auto;
 }
 section.inner{
     background: yellow;
