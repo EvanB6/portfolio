@@ -59,7 +59,7 @@ div.resume{
 p.left{
     text-align:left;
 }
-span.right{
+.righttext{
     float:right;
 }
 
@@ -71,12 +71,7 @@ span.right{
 .h{
     text-align:center;
     text-shadow: 2px 2px;
-    
 }
-
-   
-
-
 
 /* img */
 img {
