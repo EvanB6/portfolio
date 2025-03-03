@@ -68,6 +68,11 @@ h1 {
     text-shadow: 2px 2px;
     text-align: center;
 }
+.h{
+    text-align:center;
+    text-shadow: 2px 2px;
+    
+}
 
 
 /* img */
@@ -78,10 +83,15 @@ img {
 img#PSB {
     width: 10%;
 }
-
+section.threed{
+    background:#FF9A8A;
+    margin-left: auto;
+    margin-right: auto;
+}
 section {
     background:lightblue;
     width: 90%;
+    
 }
 section.resume{
     margin-left: auto;
