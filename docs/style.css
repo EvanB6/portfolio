@@ -12,22 +12,22 @@ nav.right {
 /*figures*/
 div.flex figure {
     flex: 1;
-    background: black;
+    background: #FF9A8A;
 }
 div.flex {
-    width: 80%;
+    width: 100%;
     display: flex;
 
 }
 figure {
-    width: 20%;
+    width: 100%;
     background: /*#EFD6F6*/ white;
-    ;
+    
 }
 figure.gallery {
-    width: 50%;
+    overflow: hidden;
     background: /*#EFD6F6*/ #00d6ac;
-    ;
+    
 }
 
 
@@ -64,7 +64,7 @@ span.right{
 }
 
 /* header */
-h1 {
+.h {
     text-shadow: 2px 2px;
     text-align: center;
 }
@@ -73,6 +73,9 @@ h1 {
     text-shadow: 2px 2px;
     
 }
+
+   
+
 
 
 /* img */
