@@ -8,7 +8,6 @@ nav.right {
     text-align: right;
 
 }
-
 /*figures*/
 div.flex figure {
     flex: 1;
@@ -30,14 +29,16 @@ figure.gallery {
     
 }
 
-
 /*body*/
 body.gallery {
     color: black;
     background: #FF9A8A;
     font-family: "Lucida Console", "Courier New", monospace;
 }
-
+body.index{
+    
+    font-family: "Lucida Console", "Courier New", monospace;
+}
 body {
     background: #D6DDF6;
     font-family: "Lucida Console", "Courier New", monospace;
@@ -48,19 +49,20 @@ body.image {
 }
 
 body.resume{
+    background-image: url("file:///V:/My Documents/GitHub/portfolio/docs/images/forest.jpg");
     color:black;
     font-family: "Lucida Console", "Courier New", monospace;
     
 }
 div.resume{
-    margin-left:10em;
-    margin-right:10em;
+    background-color:lightblue;
 }
 p.left{
     text-align:left;
 }
-.righttext{
+span.righttext{
     float:right;
+    
 }
 
 /* header */
@@ -68,9 +70,11 @@ p.left{
     text-shadow: 2px 2px;
     text-align: center;
 }
-.h{
-    text-align:center;
-    text-shadow: 2px 2px;
+#Iframe {
+border-style: none; 
+padding: 10px; 
+width: 100%; 
+height: 800px; 
 }
 
 /* img */
@@ -78,9 +82,6 @@ img {
     width: 80%;
 }
 
-img#PSB {
-    width: 10%;
-}
 section.threed{
     background:#FF9A8A;
     margin-left: auto;
@@ -89,12 +90,8 @@ section.threed{
 section {
     background:lightblue;
     width: 90%;
-    
 }
 section.resume{
-    margin-left: auto;
-    margin-right: auto;
+    width:100%;
 }
-section.inner{
-    background: yellow;
-}
+
