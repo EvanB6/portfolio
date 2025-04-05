@@ -1,0 +1,291 @@
+<svg width="1920" height="800" version="1.1" xmlns="http://www.w3.org/2000/svg" style="">
+    <rect class="overlay" width="1920" height="800" fill="none"/>
+    <g class="main">
+        <g class="layer nodes">
+            <circle fill="#E6E6FA" class="node source target fixed" r="5"
+                transform="translate(1072.9812506887888,115.36524125504704)"/>
+            <circle fill="#E6E6FA" class="node target fixed" r="5"
+                transform="translate(1044.6855407657158,157.80647673619688)"/>
+            <circle fill="#E6E6FA" class="node source fixed" r="5"
+                transform="translate(1029.0573671167504,214.44344610902363)"/>
+            <circle fill="#E6E6FA" class="node source fixed" r="5"
+                transform="translate(879.1007603509471,62.64884640354529)"/>
+            <circle fill="#E6E6FA" class="node target" r="5"
+                transform="translate(752.5671647171716,99.33307054980796)"/>
+            <circle fill="#E6E6FA" class="node source fixed" r="5"
+                transform="translate(639.9356146535474,97.4707516675347)"/>
+            <circle fill="#E6E6FA" class="node source fixed" r="5"
+                transform="translate(841.210242514587,211.51271268145774)"/>
+            <circle fill="#E6E6FA" class="node target fixed" r="5"
+                transform="translate(837.9209525733331,309.50581741869973)"/>
+            <circle fill="#E6E6FA" class="node source fixed" r="5"
+                transform="translate(775.9003406328428,402.73226160566185)"/>
+            <circle fill="#E6E6FA" class="node source fixed" r="5"
+                transform="translate(920.0601172346346,328.3899118893072)"/>
+            <circle fill="#E6E6FA" class="node source fixed" r="5"
+                transform="translate(819.7784558146508,369.3995675964173)"/>
+            <circle fill="#E6E6FA" class="node source fixed" r="5"
+                transform="translate(674.1961295369786,357.57914088652785)"/>
+            <circle fill="#E6E6FA" class="node source fixed" r="5"
+                transform="translate(754.0804288340861,356.3739863996268)"/>
+            <circle fill="#E6E6FA" class="node source fixed" r="5"
+                transform="translate(941.9074631154781,283.67314028261205)"/>
+            <circle fill="#E6E6FA" class="node source fixed" r="5"
+                transform="translate(792.487329243931,269.7685073883803)"/>
+            <circle fill="#E6E6FA" class="node source fixed" r="5"
+                transform="translate(849.3483817409892,394.7012888725477)"/>
+            <circle fill="#E6E6FA" class="node source fixed" r="5"
+                transform="translate(708.9120097509682,282.17630406272826)"/>
+            <circle fill="#E6E6FA" class="node source fixed" r="5"
+                transform="translate(759.2162884313751,52.17858715054754)"/>
+            <circle fill="#E6E6FA" class="node source fixed" r="5"
+                transform="translate(919.1982945375215,356.0579456583355)"/>
+            <circle fill="#E6E6FA" class="node source fixed" r="5"
+                transform="translate(804.4852214130282,243.624128477485)"/>
+            <circle fill="#E6E6FA" class="node source fixed" r="5"
+                transform="translate(930.8651241836042,109.91142737065053)"/>
+            <circle fill="#E6E6FA" class="node source fixed" r="5"
+                transform="translate(717.117229576569,171.25244400019312)"/>
+            <circle fill="#E6E6FA" class="node source fixed" r="5"
+                transform="translate(1163.1228606168604,212.97224164757353)"/>
+            <circle fill="#E6E6FA" class="node source fixed" r="5"
+                transform="translate(885.9550712817394,248.5035756099058)"/>
+            <circle fill="#E6E6FA" class="node source fixed" r="5"
+                transform="translate(972.1677662999097,311.7217255335693)"/>
+            <circle fill="#E6E6FA" class="node source fixed" r="5"
+                transform="translate(935.1758613472211,179.5590588988581)"/>
+            <circle fill="#E6E6FA" class="node source fixed" r="5"
+                transform="translate(720.7498293423072,316.8197499499444)"/>
+        </g>
+        <g class="layer labels">
+            <g class="anchor-node source target"
+                transform="translate(1076.787370410963,112.26928752820248)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"/>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(1048.7380065856569,155.76261715987602)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    transform="translate(-3.029758369692215,5)">interlibrary</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(1033.6252350638392,214.64479931143563)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    transform="translate(-0.0512676153557412,5)">Fact, fancy, and fable</text>
+            </g>
+            <g class="anchor-node source" transform="translate(879.357765298899,57.869374766675264)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    transform="translate(-60.597713753096414,5)">10 remarkable Earth facts</text>
+            </g>
+            <g class="anchor-node target" transform="translate(749.955003985399,95.72437324245413)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    transform="translate(-17.146935854292295,5)">web</text>
+            </g>
+            <g class="anchor-node source" transform="translate(635.8843492529152,94.94177284401883)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    transform="translate(-168.28069527776984,5)">50 fascinating facts about the
+                    world</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(841.2002338685171,207.12192411429277)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    transform="translate(-57.79308894988981,5)">5000 facts and fancies</text>
+            </g>
+            <g class="anchor-node target" transform="translate(838.2584250531831,313.4505213955349)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    transform="translate(-19.23855861267995,5)">physical</text>
+            </g>
+            <g class="anchor-node source" transform="translate(774.0433652746967,407.6769701161322)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    transform="translate(-84.91680762412255,5)">An incomplete education</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(923.4551852009741,331.06997172393216)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    transform="translate(-11.670679044563753,5)">Common knowledge?</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(818.8052775722566,373.80532430705233)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    transform="translate(-61.79117509852918,5)">Museums in motion</text>
+            </g>
+            <g class="anchor-node source" transform="translate(669.6395245000763,360.1125760000304)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    transform="translate(-187.46760605831906,5)">Dunlop illustrated encyclopedia of
+                    facts</text>
+            </g>
+            <g class="anchor-node source" transform="translate(750.9199897429778,359.9041319491499)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    transform="translate(-55.28502644369357,5)">Encyclopedia</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(946.2414522090551,283.06560210896146)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    transform="translate(-0.9790629886835887,5)">Everything Explained that is
+                    Explainable</text>
+            </g>
+            <g class="anchor-node source" transform="translate(788.2739913264629,270.5244131429959)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    transform="translate(-99.63478263354759,5)">Beyond coincidence</text>
+            </g>
+            <g class="anchor-node source" transform="translate(850.4733358094862,399.7864489951934)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    transform="translate(-17.87731853446575,5)">Go figure</text>
+            </g>
+            <g class="anchor-node source" transform="translate(704.059640651407,281.1618562031616)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    transform="translate(-106.09821701104826,5)">How Wikipedia works</text>
+            </g>
+            <g class="anchor-node source" transform="translate(757.7552880895125,47.48286307396421)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    transform="translate(-147.3004028262274,5)">101 random fun facts that will blow
+                    your mind</text>
+            </g>
+            <g class="anchor-node source" transform="translate(921.4894795798677,360.8407841244924)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    transform="translate(-36.358132618665216,5)">Robertson's book of firsts</text>
+            </g>
+            <g class="anchor-node source" transform="translate(801.9357274905615,240.1515530902866)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    transform="translate(-90.05472432926186,5)">Stuff you should know</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(932.7587888013761,105.65743517513229)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    transform="translate(-46.23391371525897,5)">The Reading Safari
+                    encyclofact</text>
+            </g>
+            <g class="anchor-node source" transform="translate(713.065118108517,169.05372399196273)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    transform="translate(-194.69347437267976,5)">The World Factbook - The World
+                    Factbook</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(1167.796180462184,212.99447433820455)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    transform="translate(-0.0005507379694805582,5)">The book of culture</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(889.3176376560377,246.37817254218595)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    transform="translate(-12.220392217992698,5)">The business of
+                    enlightenment</text>
+            </g>
+            <g class="anchor-node source" transform="translate(976.9014303962141,313.8188054760596)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    transform="translate(-2.70932707274152,5)">The great EB</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(938.1955954600528,176.46672658375013)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    transform="translate(-15.197755501088851,5)">The knowledgebook</text>
+            </g>
+            <g class="anchor-node source" transform="translate(716.3819330652564,318.662959878163)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    transform="translate(-102.46071880828683,5)">Wonders of the world</text>
+            </g>
+        </g>
+        <g class="layer links">
+            <path class="link"
+                d="M1072.9812506887888,115.36524125504704L1044.6855407657158,157.80647673619688"
+                href="#path0_1"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M1029.0573671167504,214.44344610902363L1044.6855407657158,157.80647673619688"
+                href="#path2_1"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M879.1007603509471,62.64884640354529L752.5671647171716,99.33307054980796"
+                href="#path3_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M639.9356146535474,97.4707516675347L752.5671647171716,99.33307054980796"
+                href="#path5_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M841.210242514587,211.51271268145774L837.9209525733331,309.50581741869973"
+                href="#path6_7"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M775.9003406328428,402.73226160566185L837.9209525733331,309.50581741869973"
+                href="#path8_7"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M920.0601172346346,328.3899118893072L837.9209525733331,309.50581741869973"
+                href="#path9_7"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M819.7784558146508,369.39956759641734L837.9209525733331,309.50581741869973"
+                href="#path10_7"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M674.1961295369786,357.57914088652785L837.9209525733331,309.50581741869973"
+                href="#path11_7"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M754.080428834086,356.3739863996268L837.9209525733331,309.50581741869973"
+                href="#path12_7"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M941.9074631154781,283.67314028261205L837.9209525733331,309.50581741869973"
+                href="#path13_7"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M792.487329243931,269.7685073883803L837.9209525733331,309.50581741869973"
+                href="#path14_7"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M849.3483817409892,394.7012888725477L837.9209525733331,309.50581741869973"
+                href="#path15_7"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M708.9120097509682,282.17630406272826L837.9209525733331,309.50581741869973"
+                href="#path16_7"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M759.2162884313751,52.17858715054754L752.5671647171716,99.33307054980796"
+                href="#path17_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M919.1982945375216,356.0579456583355L837.9209525733331,309.50581741869973"
+                href="#path18_7"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M804.4852214130282,243.624128477485L837.9209525733331,309.50581741869973"
+                href="#path19_7"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M930.8651241836042,109.91142737065053L1044.6855407657158,157.80647673619688"
+                href="#path20_1"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M717.117229576569,171.25244400019312L752.5671647171716,99.33307054980796"
+                href="#path21_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M1163.1228606168604,212.97224164757353L1044.6855407657158,157.80647673619688"
+                href="#path22_1"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M885.9550712817394,248.5035756099058L837.9209525733331,309.50581741869973"
+                href="#path23_7"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M972.1677662999098,311.7217255335693L837.9209525733331,309.50581741869973"
+                href="#path24_7"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M935.1758613472211,179.5590588988581L1044.6855407657158,157.80647673619688"
+                href="#path25_1"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M720.7498293423072,316.8197499499444L837.9209525733331,309.50581741869973"
+                href="#path26_7"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M1072.9812506887888,115.36524125504704L1072.9812506887888,115.36524125504704"
+                href="#path0_0"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"
+            />
+        </g>
+    </g>
+</svg>
