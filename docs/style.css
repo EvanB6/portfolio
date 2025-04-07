@@ -38,6 +38,9 @@ figure {
 figure.shelf {
     width: 100%;
     background: #D6DDF6;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
     
 }
 figure.gallery {
@@ -65,7 +68,7 @@ body.image {
     background-color: #cccccc;
 }
 
-body.resume{
+body.about{
     background-image: url("file:///V:/My Documents/GitHub/portfolio/docs/images/forest.jpg");
     background-repeat: no-repeat;
     
@@ -115,4 +118,10 @@ section {
 section.resume{
     width:100%;
 }
-
+section.about {
+    opacity:80%;
+    background:lightblue;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
