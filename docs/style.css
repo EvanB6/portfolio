@@ -20,8 +20,7 @@ div.flex2 figure {
     
 }
 div.flex2 {
-    width:100%;
-    height:100%;
+    
     display:flex;
 
 }
@@ -130,4 +129,9 @@ section.compare {
     width: 80%;
     margin-left: auto;
     margin-right: auto;
+}
+.center{
+    
+    margin-left: 10em;
+    margin-right: 10em;
 }
