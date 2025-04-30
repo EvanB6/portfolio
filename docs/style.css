@@ -20,6 +20,11 @@ div.flex2 figure {
     
     
 }
+
+footer {
+      text-align: center;
+      
+    }
 div.flex2 {
     
     display:flex;
