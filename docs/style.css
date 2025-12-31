@@ -12,7 +12,7 @@ nav.right {
 /*figures*/
 div.flex figure {
     flex: 1;
-    background: #FF9A8A;
+    background: #D6DDF6;
 }
 div.flex2 figure {
     flex: 1;
@@ -38,6 +38,8 @@ div.flex {
 figure {
     width: 100%;
     background: /*#EFD6F6*/ white;
+    margin-left: auto;
+    margin-right: auto;
     
 }
 figure.shelf {
@@ -107,12 +109,16 @@ height: 600px;
 }
 
 /* img */
-img {
-    width: 80%;
+img{
+    width:80%;
+}
+img.resume {
+    width: 100%;
+    height: auto;
 }
 
 section.threed{
-    background:#FF9A8A;
+    background:#D6DDF6;
     margin-left: auto;
     margin-right: auto;
 }
