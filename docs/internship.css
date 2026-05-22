@@ -1,0 +1,80 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+    background: linear-gradient(180deg, #192315 40%, #375C44 100%);
+    min-height: 100vh;
+    font-family: Arial, sans-serif;
+    padding: 1.5rem;
+
+}
+/* ── Page Title ── */
+h1.page-title {
+    text-align: center;
+    color: #2A5F74;
+    font-size: 1.8rem;
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 1.2rem;
+}
+/* ── Nav Bar ── */
+nav.topnav {
+    background: #2A5F74;
+    border-radius: 10px;
+    padding: 0.7rem 1.5rem;
+    margin-bottom: 1.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 2rem;
+    justify-content: center;
+}
+nav.topnav a {
+    color: black;
+    text-decoration: underline;
+    font-size: 0.95rem;
+    font-weight: normal;
+}
+nav.topnav a:hover { color: #aa1111; }
+/* ── Section Header (blue bar) ── */
+.section-header {
+    background: #8B5B23;
+    border-radius: 12px;
+    padding: 0.6rem 1.2rem;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1rem;
+    text-decoration: underline;
+    letter-spacing: 0.04em;
+    margin-bottom: 0.8rem;
+    color: black;
+}
+/* ── Info Block (orange, rounded) ── */
+.info-block {
+    background:#2A5F74;
+    border-radius: 16px;
+    padding: 1.1rem 1.4rem;
+    margin-bottom: 1.2rem;
+    line-height: 1.8;
+    font-size: 0.95rem;
+}
+.info-block p { margin-bottom: 0.2rem; }
+.info-block em { font-style: italic; }
+/* ── Week Content Block (yellow) ── */
+.week-content {
+    background: #2A5F74;
+    border-radius: 12px;
+    padding: 0.9rem 1.2rem 0.9rem 1.4rem;
+    margin-bottom: 1.2rem;
+    font-size: 0.92rem;
+    line-height: 1.7;
+}
+.week-content ul {
+    padding-left: 1.2rem;
+    list-style: disc;
+}
+.week-content ul li { margin-bottom: 0.2rem; }
+/* ── Footer ── */
+footer {
+    margin-top: 2rem;
+    font-size: 0.8rem;
+    color: white;
+    opacity: 0.85;
+}
