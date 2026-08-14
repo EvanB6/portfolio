@@ -147,3 +147,23 @@ section.compare {
     margin-left: 10em;
     margin-right: 10em;
 }
+
+
+
+
+.photo-card {
+    flex: 1;
+    text-align: center;
+}
+
+.photo-card img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+}
+
+.photo-card p {
+    margin-top: 8px;
+    font-size: 16px;
+}

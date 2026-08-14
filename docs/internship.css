@@ -78,3 +78,27 @@ footer {
     color: white;
     opacity: 0.85;
 }
+.photo-content {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.photo-card {
+    flex: 1;
+    text-align: center;
+}
+
+.photo-card img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+}
+
+.photo-card p {
+    margin-top: 8px;
+    font-size: 16px;
+}
